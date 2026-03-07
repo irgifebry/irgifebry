@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Irgi%20Febry&amp;fontSize=55&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Mobile%20%26%20Full%20Stack%20Developer&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" width="100%" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Android+Native+%7C+Full+Stack+Web+Developer;Kotlin+%7C+Java+%7C+TypeScript+%7C+PHP;Building+real+products+that+solve+real+problems" alt="Typing SVG" />
+# 👋 Hi, I'm Irgi Febry
+
+### Mobile & Full Stack Developer 🇮🇩
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Android+Native+Developer;Full+Stack+Web+Developer;Kotlin+%7C+TypeScript+%7C+PHP)](https://git.io/typing-svg)
+
 </div>
 
 ---
@@ -14,7 +16,7 @@
 val irgiFebry = Developer(
     username = "irgifebry",
     focus    = listOf("Android Native", "Full Stack Web"),
-    stack    = listOf("Kotlin", "Java", "TypeScript", "PHP", "React", "CSS"),
+    stack    = listOf("Kotlin", "Java", "TypeScript", "PHP", "React"),
     location = "Indonesia 🇮🇩",
     status   = "Shipping products from mobile to web 🔨",
     funFact  = "I build apps for broken phones... literally 😄"
@@ -59,12 +61,8 @@ val irgiFebry = Developer(
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irgifebry&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irgifebry&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=c9d1d9" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=irgifebry&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=a78bfa&amp;currStreakLabel=a78bfa" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=irgifebry&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irgifebry&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
 </div>
 
 ---
@@ -72,7 +70,7 @@ val irgiFebry = Developer(
 ## 🚀 Featured Projects
 
 ### 🎮 [PlayShop.ID](https://github.com/irgifebry/PlayShop.ID)
-> Platform top-up game online (Mobile Legends, Free Fire, PUBG) — built with **PHP Native** tanpa framework.
+> Platform top-up game online (Mobile Legends, Free Fire, PUBG) — PHP Native tanpa framework.
 
 - Full e-commerce: product listing → checkout → payment → order tracking
 - Admin panel: dashboard, manajemen game, transaksi, deposit, laporan
@@ -84,23 +82,23 @@ val irgiFebry = Developer(
 > Android app untuk HP dengan tombol hardware rusak — *"Intelligence in every lift and tap"*
 
 - Lift-to-Wake, Double Tap Wake/Sleep, Flip-to-Wake, USB Smart Wake
-- Direct Boot Support, Universal APK (arm64, x86), Android 5.0 → 16
+- Universal APK: arm64, x86 — Android 5.0 → 16 · v1.0.0
 - Stack: `Kotlin` `Java` `Android`
 
 ---
 
 ### 🔍 [InstaInsight](https://github.com/irgifebry/InstaInsight)
-> Tool web untuk analisis followers Instagram — tanpa password, 100% privacy.
+> Tool web analisis followers Instagram — tanpa password, 100% lokal di browser.
 
-- Deteksi unfollowers, export CSV, PWA support
+- Deteksi unfollowers, history tracking, export CSV, PWA support
 - Stack: `React 19` `TypeScript` `Vite 6` `Tailwind CSS`
 
 ---
 
 ### 🖥️ [Rygent](https://github.com/irgifebry/Rygent)
-> Monitor PC/Linux server secara real-time dari Android via Cloudflare Tunnel.
+> Monitor PC/Linux server real-time dari Android via Cloudflare Tunnel.
 
-- Live metrics: CPU, RAM, Disk, Network — QR code pairing
+- Live metrics: CPU, RAM, Disk, Network — QR code pairing · v1.0.0
 - Stack: `Kotlin` `Android`
 
 ---
@@ -112,6 +110,5 @@ val irgiFebry = Developer(
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=100&amp;section=footer" width="100%" />
-  <sub>Made with 💜 by Irgi F</sub>
+<sub>Made with 💜 by Irgi F</sub>
 </div>
