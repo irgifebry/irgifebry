@@ -77,29 +77,29 @@ val irgiFebry = Developer(
 ## 🚀 Featured Projects
 
 ### 🎮 [PlayShop.ID](https://github.com/irgifebry/PlayShop.ID)
-> Platform top-up game online (Mobile Legends, Free Fire, PUBG) — PHP Native tanpa framework.
+> Online game top-up platform (Mobile Legends, Free Fire, PUBG) — built with PHP Native, no framework.
 
-- Full e-commerce: product listing → checkout → payment → order tracking
-- Admin panel: dashboard, manajemen game, transaksi, deposit, laporan
+- Full e-commerce flow: product listing → checkout → payment → order tracking
+- Admin panel: dashboard, game management, transactions, deposit system, reports
 - Stack: `PHP` `MySQL` `CSS3` `JavaScript` `Apache`
 
 ### 📱 [WakeSense](https://github.com/irgifebry/WakeSanse)
-> Android app untuk HP dengan tombol hardware rusak — *"Intelligence in every lift and tap"*
+> Android app for devices with broken hardware buttons — *"Intelligence in every lift and tap"*
 
 - Lift-to-Wake, Double Tap Wake/Sleep, Flip-to-Wake, USB Smart Wake
 - Universal APK: arm64, x86 — Android 5.0 → 16 · v1.0.0
 - Stack: `Kotlin` `Java` `Android`
 
 ### 🔍 [InstaInsight](https://github.com/irgifebry/InstaInsight)
-> Tool web analisis followers Instagram — tanpa password, 100% lokal di browser.
+> Web tool to analyze Instagram followers — no password required, 100% local in-browser.
 
-- Deteksi unfollowers, history tracking, export CSV, PWA support
+- Unfollower detection, history tracking, CSV export, PWA support
 - Stack: `React 19` `TypeScript` `Vite 6` `Tailwind CSS`
 
 ### 🖥️ [Rygent](https://github.com/irgifebry/Rygent)
-> Monitor PC/Linux server real-time dari Android via Cloudflare Tunnel.
+> Monitor your PC/Linux server in real-time from Android via Cloudflare Tunnel.
 
-- Live metrics: CPU, RAM, Disk, Network — QR code pairing · v1.0.0
+- Live metrics: CPU, RAM, Disk, Network — secure QR code pairing · v1.0.0
 - Stack: `Kotlin` `Android`
 
 ---
