@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Irgi Febry
+# Hi, I'm Irgi
 
 *Mobile & Full Stack Developer from Indonesia*
 
