@@ -113,9 +113,3 @@ val irgiFebry = Developer(
 </a>
 
 </div>
-
----
-
-<div align="center">
-<sub>Made with 💜 by Irgi F</sub>
-</div>
