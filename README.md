@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Irgi Febry 👋
+# Hey, I'm Irgi 👋
 
 *Mobile & Full Stack Developer from Indonesia 🇮🇩*
 
@@ -17,7 +17,7 @@
 ## 🧑‍💻 About Me
 
 ```kotlin
-val irgiFebry = Developer(
+val irgi = Developer(
     username = "irgifebry",
     focus    = listOf("Android Native", "Full Stack Web"),
     stack    = listOf("Kotlin", "Java", "TypeScript", "PHP", "React"),
