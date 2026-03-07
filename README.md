@@ -83,7 +83,7 @@ val irgiFebry = Developer(
 - Admin panel: dashboard, game management, transactions, deposit system, reports
 - Stack: `PHP` `MySQL` `CSS3` `JavaScript` `Apache`
 
-### 📱 [WakeSense](https://github.com/irgifebry/WakeSanse)
+### 📱 [WakeSanse](https://github.com/irgifebry/WakeSanse)
 > Android app for devices with broken hardware buttons — *"Intelligence in every lift and tap"*
 
 - Lift-to-Wake, Double Tap Wake/Sleep, Flip-to-Wake, USB Smart Wake
