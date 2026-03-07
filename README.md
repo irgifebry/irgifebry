@@ -4,7 +4,7 @@
 
 *Mobile & Full Stack Developer from Indonesia*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Android+Native+Developer;Full+Stack+Web+Developer;Building+things+that+actually+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=520&lines=Android+Native+Developer;Full+Stack+Web+Developer;Building+things+that+actually+work.)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=irgifebry&color=a78bfa&style=flat&label=Profile+Views)](https://github.com/irgifebry)
 [![GitHub followers](https://img.shields.io/github/followers/irgifebry?style=flat&color=a78bfa&label=Followers)](https://github.com/irgifebry?tab=followers)
