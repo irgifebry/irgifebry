@@ -30,29 +30,29 @@ val irgiFebry = Developer(
 <div align="center">
 
 ### 📱 Mobile (Android)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&amp;logo=kotlin&amp;logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&amp;logo=openjdk&amp;logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&amp;logo=android&amp;logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&amp;logo=androidstudio&amp;logoColor=white)
 
-### 🌐 Web & Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### 🌐 Web &amp; Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&amp;logo=react&amp;logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&amp;logo=vite&amp;logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&amp;logo=tailwindcss&amp;logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white)
 
 ### ⚙️ Backend &amp; Infra
-![PHP](https://img.shields.io/badge/PHP%20Native-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?style=flat&logo=cloudflare&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP%20Native-777BB4?style=flat&amp;logo=php&amp;logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;logo=mysql&amp;logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?style=flat&amp;logo=cloudflare&amp;logoColor=white)
 
 ### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&amp;logo=visualstudiocode&amp;logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&amp;logo=xampp&amp;logoColor=white)
 
 </div>
 
@@ -76,11 +76,11 @@ val irgiFebry = Developer(
 ## 🚀 Featured Projects
 
 ### 🎮 [PlayShop.ID](https://github.com/irgifebry/PlayShop.ID)
-> Platform top-up game online (Mobile Legends, Free Fire, PUBG & more) — built with **PHP Native** without any framework.
+> Platform top-up game online (Mobile Legends, Free Fire, PUBG &amp; more) — built with **PHP Native** without any framework.
 
 - Full e-commerce flow: product listing → checkout → payment → order tracking
-- Admin panel with dashboard, game/product management, transaction processing & reports
-- RESTful API endpoints, user auth, deposit system, promo & blog features
+- Admin panel with dashboard, game/product management, transaction processing &amp; reports
+- RESTful API endpoints, user auth, deposit system, promo &amp; blog features
 - Stack: `PHP` `MySQL` `CSS3` `JavaScript` `Apache`
 
 ---
@@ -97,11 +97,11 @@ val irgiFebry = Developer(
 ---
 
 ### 🔍 [InstaInsight](https://github.com/irgifebry/InstaInsight)
-> Privacy-first web tool to analyze Instagram followers — see who doesn't follow back, track unfollowers & export results. **No password required.**
+> Privacy-first web tool to analyze Instagram followers — see who doesn't follow back, track unfollowers &amp; export results. **No password required.**
 
 - 100% local browser processing — zero data sent to any server
 - History tracking, recently-unfollowed detection, CSV export
-- PWA support — installable as standalone app on mobile & desktop
+- PWA support — installable as standalone app on mobile &amp; desktop
 - Smart bookmarklet scraper with Instagram API rate-limit handling
 - Stack: `React 19` `TypeScript` `Vite 6` `Tailwind CSS`
 
@@ -110,7 +110,7 @@ val irgiFebry = Developer(
 ### 🖥️ [Rygent](https://github.com/irgifebry/Rygent)
 > Android client to monitor your PC/Linux server in real-time, from anywhere in the world via Cloudflare Tunnel.
 
-- Live metrics: CPU, RAM, Disk & Network usage
+- Live metrics: CPU, RAM, Disk &amp; Network usage
 - Remote secure connection via Cloudflare Tunnel + QR code pairing
 - Works alongside the **Rygent Agent** (Linux branch)
 - Released: v1.0.0 (March 2026)
@@ -122,7 +122,7 @@ val irgiFebry = Developer(
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-@irgi.syh-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/irgi.syh/)
+[![Instagram](https://img.shields.io/badge/Instagram-@irgi.syh-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/irgi.syh/)
 
 </div>
 
