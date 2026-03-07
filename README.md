@@ -60,8 +60,9 @@ val irgiFebry = Developer(
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=irgifebry&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irgifebry&layout=compact&theme=tokyonight&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=irgifebry&color=a78bfa&style=flat&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/irgifebry?style=flat&color=a78bfa&label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/irgifebry?style=flat&color=a78bfa&label=Total+Stars)
 
 ---
 
