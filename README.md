@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Irgi
+# Hi, I'm Irgi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 *Mobile & Full Stack Developer from Indonesia*
 
