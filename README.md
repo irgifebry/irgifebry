@@ -1,41 +1,9 @@
 # Irgi Febryansyah
 
-Mobile and Full Stack Developer based in Indonesia. Focused on building high-performance native Android applications and robust web architectures.
+Just a software developer who enjoys building things for Android and the Web.
 
 ---
 
-## Technical Expertise
-
-### Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin) ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/Android-black?style=flat-square&logo=android) ![Android Studio](https://img.shields.io/badge/Android_Studio-black?style=flat-square&logo=androidstudio)
-
-### Web & Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite) ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss) ![HTML5](https://img.shields.io/badge/HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-black?style=flat-square&logo=css3)
-
-### Backend & Infrastructure
-![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php) ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=flat-square&logo=cloudflare)
-
-### Dev Tools
-![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github) ![VS Code](https://img.shields.io/badge/VS_Code-black?style=flat-square&logo=visualstudiocode)
-
----
-
-
-## Professional Profile
-
-```kotlin
-val profile = Developer(
-    username = "irgifebry",
-    specializations = listOf("Android Native", "Full Stack Web"),
-    primaryStack = listOf("Kotlin", "TypeScript", "PHP"),
-    status = "Shipping high-quality mobile and web products"
-)
-```
-
----
-
-## Contact
-
-* Professional Email: irgifebry2006@gmail.com
+* Email: irgifebry2006@gmail.com
 * GitHub: [irgifebry](https://github.com/irgifebry)
 * Instagram: [@irgi.syh](https://www.instagram.com/irgi.syh/)
