@@ -20,29 +20,6 @@ Mobile and Full Stack Developer based in Indonesia. Focused on building high-per
 
 ---
 
-## Featured Projects
-
-### PlayShop.ID
-A game top-up platform featuring full e-commerce flows, secure transaction systems, deposit management, and comprehensive admin reports.
-* **Stack**: PHP, MySQL, JavaScript
-* **Repository**: [PlayShop.ID](https://github.com/irgifebry/PlayShop.ID)
-
-### WakeSanse
-A utility Android application designed for devices with damaged physical power or fingerprint buttons. Implements hardware sensor integrations including Lift-to-Wake, Double Tap, Flip-to-Wake, and USB Smart Wake.
-* **Stack**: Kotlin, Java, Android SDK (API 21 to 36)
-* **Repository**: [WakeSanse](https://github.com/irgifebry/WakeSanse)
-
-### InstaInsight
-A privacy-focused Instagram followers analytics tool running completely on the client side in the browser. Tracks follower history, detects unfollowers, and exports reports.
-* **Stack**: React, TypeScript, Vite, Tailwind CSS
-* **Repository**: [InstaInsight](https://github.com/irgifebry/InstaInsight)
-
-### Rygent
-A real-time remote system and server monitoring application. Pairs with Rygent Agent via secure QR codes and displays live hardware metrics.
-* **Stack**: Kotlin, Android SDK, Cloudflare Tunnel
-* **Repository**: [Rygent](https://github.com/irgifebry/Rygent)
-
----
 
 ## Professional Profile
 
